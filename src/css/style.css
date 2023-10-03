@@ -1,0 +1,89 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #001e55;
+  fill: solid;
+
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+p {
+  padding: 10px;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #001c51;
+}
+
+h3 {
+  color: #001e55;
+  line-height: 1.5;
+}
+
+h5 {
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+.title {
+  font-family: "Inter";
+  font-size: 30px;
+}
+
+.bg-celeste-medio
+{
+  background-color: #5a93c0;
+}
+
+footer {
+  padding: 40px 0px;
+  color: #ffffff;
+}
+
+footer a {
+  color: #ffffff;
+  margin: 0 10px;
+}
+
+footer a:hover {
+  color: #bdbdbd;
+  text-decoration: none;
+}
+
+footer p {
+  font-size: 1.8rem;
+}
+
+.main-title {
+  line-height: 2;
+  padding: 5rem 0;
+  margin-bottom: 2rem;
+  border-radius: 0 0 20px 20px;
+}
+
+#sobre-mi {
+    padding-bottom: 5rem !important;
+    background: #eaf2fd;
+    font-size: 1rem;
+}
+
+#habilidades, 
+#formacion-academica {
+    padding: 5rem 0;
+}
+
+#pasatiempos,
+#proyectos {
+    padding: 5rem 0;
+    background: #eaf2fd;
+}
